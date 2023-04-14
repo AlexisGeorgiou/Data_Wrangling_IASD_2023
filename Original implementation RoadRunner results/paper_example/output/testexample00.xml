@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<wrapper name="testexample">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <freetext value="false"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value=""/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <skipTrees value="script,style"/>
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs=""/>
+    <pcdata depth="1"><![CDATA[Books of:]]></pcdata>
+    <tag element="body" depth="1" attrs=""/>
+    <subtree><tag element="body" depth="1" attrs=""/></subtree>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs=""/>
+  </and>
+</expression>
+</wrapper>

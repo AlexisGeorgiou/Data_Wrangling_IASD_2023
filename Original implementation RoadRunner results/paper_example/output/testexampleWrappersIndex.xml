@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="testexample0" source="testexample00.xml" dataset="testexample0_DataSet.xml" number_of_samples="3" compress_ratio="92.82%" schema_dl="117" instances_dl="1667" samples_dl="1922">
+    <instance name="wrapper_page" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/test_example/wrapper_page.html" sample_dl="470" instance_dl="385"/>
+    <instance name="sample_page1" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/test_example/sample_page1.html" sample_dl="659" instance_dl="574"/>
+    <instance name="sample_page2" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/test_example/sample_page2.html" sample_dl="793" instance_dl="708"/>
+  </wrapper>
+</index>

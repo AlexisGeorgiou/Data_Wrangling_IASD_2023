@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="amazon_listings0" source="amazon_listings00.xml" dataset="amazon_listings0_DataSet.xml" number_of_samples="4" compress_ratio="83.02%" schema_dl="173634" instances_dl="2121655" samples_dl="2764596">
+    <instance name="amazon_listing_1" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/amazon/amazon_listing_1.html" sample_dl="758001" instance_dl="594104"/>
+    <instance name="amazon_listing_2" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/amazon/amazon_listing_2.html" sample_dl="668672" instance_dl="507535"/>
+    <instance name="amazon_listing_3" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/amazon/amazon_listing_3.html" sample_dl="660285" instance_dl="500156"/>
+    <instance name="amazon_listing_4" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/amazon/amazon_listing_4.html" sample_dl="677638" instance_dl="519860"/>
+  </wrapper>
+</index>

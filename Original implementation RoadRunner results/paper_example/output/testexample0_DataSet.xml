@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="testexample">
+    <instance source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/test_example/wrapper_page.html" name="wrapper_page">
+      <and>
+        <subtree>
+<BODY><B>
+		John Smith
+	</B>
+	<UL>
+		<LI>
+			<I>Title:</I>
+			DB Primer
+		</LI>
+		<LI>
+			<I>Title:</I>
+			Comp. Sys.
+		</LI>
+	</UL>
+</BODY>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/test_example/sample_page1.html" name="sample_page1">
+      <and>
+        <subtree>
+<BODY><B>
+	Alex Jones
+	</B>
+	<IMG src=".../"/>
+	<UL>
+		<LI>
+			<I>Title:</I>
+			XML at Work
+		</LI>
+		<LI>
+			<I>Title:</I>
+			HTML Scripts
+		</LI>
+		<LI>
+			<I>Title:</I>
+			Javascript
+		</LI>
+	</UL>
+</BODY>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/test_example/sample_page2.html" name="sample_page2">
+      <and>
+        <subtree>
+<BODY><B>
+	Joelle Barhoun
+	</B>
+	<B>
+	Alex Georgiou
+	</B>
+	<IMG src=".../"/>
+	<IMG src=".../"/>
+	<UL>
+		<LI>
+			<I>Title:</I>
+			Lord of the rings
+		</LI>
+		<LI>
+			<I>Title:</I>
+			Harry Potter
+		</LI>
+		<LI>
+			<I>Title:</I>
+			1984
+		</LI>
+	</UL>
+</BODY>        </subtree>
+      </and>
+    </instance>
+</dataset>
