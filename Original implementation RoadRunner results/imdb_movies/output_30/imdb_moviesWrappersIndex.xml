@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="imdb_movies0" source="imdb_movies00.xml" dataset="imdb_movies0_DataSet.xml" number_of_samples="30" compress_ratio="55.25%" schema_dl="110096" instances_dl="3659675" samples_dl="6822681">
+    <instance name="imdb_movie_1" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_1.html" sample_dl="217699" instance_dl="114558"/>
+    <instance name="imdb_movie_2" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_2.html" sample_dl="232016" instance_dl="126381"/>
+    <instance name="imdb_movie_3" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_3.html" sample_dl="236445" instance_dl="128645"/>
+    <instance name="imdb_movie_4" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_4.html" sample_dl="220314" instance_dl="115553"/>
+    <instance name="imdb_movie_5" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_5.html" sample_dl="204709" instance_dl="103612"/>
+    <instance name="imdb_movie_6" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_6.html" sample_dl="220880" instance_dl="117301"/>
+    <instance name="imdb_movie_7" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_7.html" sample_dl="241130" instance_dl="133166"/>
+    <instance name="imdb_movie_8" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_8.html" sample_dl="234891" instance_dl="127490"/>
+    <instance name="imdb_movie_9" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_9.html" sample_dl="228545" instance_dl="122522"/>
+    <instance name="imdb_movie_10" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_10.html" sample_dl="225462" instance_dl="121878"/>
+    <instance name="imdb_movie_11" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_11.html" sample_dl="230991" instance_dl="123057"/>
+    <instance name="imdb_movie_12" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_12.html" sample_dl="222113" instance_dl="117430"/>
+    <instance name="imdb_movie_13" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_13.html" sample_dl="237151" instance_dl="131537"/>
+    <instance name="imdb_movie_14" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_14.html" sample_dl="238969" instance_dl="131254"/>
+    <instance name="imdb_movie_15" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_15.html" sample_dl="240571" instance_dl="132290"/>
+    <instance name="imdb_movie_16" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_16.html" sample_dl="245760" instance_dl="138078"/>
+    <instance name="imdb_movie_17" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_17.html" sample_dl="220128" instance_dl="115730"/>
+    <instance name="imdb_movie_18" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_18.html" sample_dl="224214" instance_dl="119265"/>
+    <instance name="imdb_movie_19" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_19.html" sample_dl="221672" instance_dl="118634"/>
+    <instance name="imdb_movie_20" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_20.html" sample_dl="237108" instance_dl="129390"/>
+    <instance name="imdb_movie_21" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_21.html" sample_dl="226681" instance_dl="124024"/>
+    <instance name="imdb_movie_22" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_22.html" sample_dl="219254" instance_dl="114486"/>
+    <instance name="imdb_movie_23" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_23.html" sample_dl="227363" instance_dl="120447"/>
+    <instance name="imdb_movie_24" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_24.html" sample_dl="211367" instance_dl="109075"/>
+    <instance name="imdb_movie_25" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_25.html" sample_dl="229649" instance_dl="122744"/>
+    <instance name="imdb_movie_26" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_26.html" sample_dl="206845" instance_dl="105033"/>
+    <instance name="imdb_movie_27" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_27.html" sample_dl="214471" instance_dl="112214"/>
+    <instance name="imdb_movie_28" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_28.html" sample_dl="250191" instance_dl="141501"/>
+    <instance name="imdb_movie_29" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_29.html" sample_dl="226344" instance_dl="119945"/>
+    <instance name="imdb_movie_30" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_30.html" sample_dl="229748" instance_dl="122435"/>
+  </wrapper>
+</index>
