@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="imdb_movies0" source="imdb_movies00.xml" dataset="imdb_movies0_DataSet.xml" number_of_samples="4" compress_ratio="62.7%" schema_dl="125507" instances_dl="442433" samples_dl="905740">
+    <instance name="imdb_movie_1" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_1.html" sample_dl="217699" instance_dl="102867"/>
+    <instance name="imdb_movie_2" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_2.html" sample_dl="231282" instance_dl="117041"/>
+    <instance name="imdb_movie_3" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_3.html" sample_dl="236445" instance_dl="115913"/>
+    <instance name="imdb_movie_4" source="file:/C:/Users/dredd/OneDrive-PSL/Desktop/RoadRunner/examples/imdb_movie/imdb_movie_4.html" sample_dl="220314" instance_dl="106612"/>
+  </wrapper>
+</index>
